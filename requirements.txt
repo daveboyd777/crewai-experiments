@@ -1,0 +1,14 @@
+crewai==0.28.7
+langchain==0.1.15
+langchain_google_genai==1.0.1
+praw==7.7.1
+black==21.12b0
+flake8==4.0.1
+isort
+mypy==0.910
+pytest==7.0.1
+radon==5.0.1
+coverage==6.3.2
+mypy-extensions==0.4.3
+pytest-cov==3.0.0
+
